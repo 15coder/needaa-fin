@@ -1,0 +1,23 @@
+{
+  "name": "نداء الرحمن محمد عبود",
+  "short_name": "نداء الرحمن",
+  "description": "الموقع الشخصي لنداء الرحمن محمد عبود — مطور برمجيات وخبير أمن سيبراني",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080f",
+  "theme_color": "#007AFF",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/images/logo.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/images/logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
