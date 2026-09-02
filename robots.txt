@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://needaa.netlify.app/sitemap.xml
+Sitemap: https://needaa.vip/sitemap.xml
